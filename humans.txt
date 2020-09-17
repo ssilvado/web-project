@@ -16,4 +16,7 @@
 	this is na exercise to learn how to use git, enjoy it!
 Segundo Teste usando a new_branch
 
-%this is just a comment%
+%this is just a comment
+
+ 
+ exercise to change any file from the repo and submit a Pull Request, based on the Fork and Pull method
